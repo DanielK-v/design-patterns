@@ -1,0 +1,19 @@
+{
+  "name": "danielk-v/design-patterns",
+  "description": "Strategy design pattern",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "daniel.k"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "DesignPatterns\\": "./"
+    }
+  }
+}
